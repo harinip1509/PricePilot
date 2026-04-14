@@ -1,0 +1,28 @@
+[
+  {
+    "id": "30903350-d6c7-483b-a7e1-d84268e79098",
+    "name": "Harini",
+    "email": "harini@example.com",
+    "passwordHash": "$2a$10$KO4EmFCKJfeixndyfKnUr.9N7mdoKfg.C7GVSlN87fdXt2F7qx3Mi",
+    "phone": "",
+    "businessName": "",
+    "industry": "",
+    "currency": "USD",
+    "timezone": "UTC",
+    "createdAt": "2026-04-13T12:37:50.052Z",
+    "updatedAt": "2026-04-13T12:37:50.052Z"
+  },
+  {
+    "id": "2beebeba-07f0-44f2-94ac-4ed444c3632c",
+    "name": "Prapti Bhayde",
+    "email": "prapti@example.com",
+    "passwordHash": "$2a$10$9SAP018eZV3h94qgUTnG..o5.Ef1FjS1vf.MVnrfEc4r5JimYnXra",
+    "phone": "",
+    "businessName": "",
+    "industry": "",
+    "currency": "USD",
+    "timezone": "UTC",
+    "createdAt": "2026-04-13T12:40:17.177Z",
+    "updatedAt": "2026-04-13T12:40:17.177Z"
+  }
+]
